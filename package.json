@@ -15,12 +15,10 @@
       "ReasonML",
       "OCaml"
    ],
-   "author": "Jane Street Group, LLC <opensource@janestreet.com>",
-   "license": "BSD-3-Clause",
    "bugs": {
-      "url": "https://github.com/ELLIOTTCABLE/bs-result/issues"
+      "url": "https://github.com/roddyyaga/bs-easy-format/issues"
    },
-   "homepage": "https://github.com/ELLIOTTCABLE/bs-result#readme",
+   "homepage": "https://github.com/roddyyaga/bs-easy-format#readme",
    "devDependencies": {
       "bs-platform": "^5.0.1"
    },
