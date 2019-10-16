@@ -1,0 +1,31 @@
+{
+    "name": "@roddynpm/bs-easy-format",
+    "version": "0.0.1",
+    "repository": {
+       "type": "git",
+       "url": "git+https://github.com/roddyyaga/bs-easy-format.git"
+    },
+   "scripts": {
+      "prepare": "npm run clean && bsb -make-world",
+      "clean": "bsb -clean-world",
+      "test": "echo \"Error: no tests specified\" && exit 1"
+   },
+   "keywords": [
+      "BuckleScript",
+      "ReasonML",
+      "OCaml"
+   ],
+   "author": "Jane Street Group, LLC <opensource@janestreet.com>",
+   "license": "BSD-3-Clause",
+   "bugs": {
+      "url": "https://github.com/ELLIOTTCABLE/bs-result/issues"
+   },
+   "homepage": "https://github.com/ELLIOTTCABLE/bs-result#readme",
+   "devDependencies": {
+      "bs-platform": "^5.0.1"
+   },
+   "peerDependencies": {
+      "bs-platform": ">=4.0.0"
+   },
+   "dependencies": {}
+}

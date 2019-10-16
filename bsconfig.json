@@ -1,0 +1,9 @@
+{
+    "name": "@roddynpm/bs-easy-format",
+    "version": "0.0.1",
+    "sources": {
+        "dir": "src"
+    },
+    "namespace": false,
+    "suffix": ".bs.js"
+}
