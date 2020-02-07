@@ -1,10 +1,10 @@
 {
-    "name": "@roddynpm/bs-easy-format",
-    "version": "0.0.1",
-    "repository": {
-       "type": "git",
-       "url": "git+https://github.com/roddyyaga/bs-easy-format.git"
-    },
+   "name": "@roddynpm/bs-easy-format",
+   "version": "0.1.0",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/roddyyaga/bs-easy-format.git"
+   },
    "scripts": {
       "prepare": "npm run clean && bsb -make-world",
       "clean": "bsb -clean-world",
@@ -20,10 +20,10 @@
    },
    "homepage": "https://github.com/roddyyaga/bs-easy-format#readme",
    "devDependencies": {
-      "bs-platform": "^5.0.1"
+      "bs-platform": "^7.0.0"
    },
    "peerDependencies": {
-      "bs-platform": ">=4.0.0"
+      "bs-platform": "^7.0.0"
    },
    "dependencies": {}
 }
